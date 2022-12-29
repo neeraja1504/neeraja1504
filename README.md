@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Neeraja Kirtane!
+
+- I am currently working as a Research Assistant at Indian Institute of Technology, Madras, India (IITM). 
+- My interests lie in NLP, and believe in creating NLP applications for social good and systems which are ethical and fair to all.
+- I am always open to new collaborations! 
+- 📫 You can reach me on: kirtane[dot]neeraja[at]gmail[dot]com
+-  😄 Pronouns: she/her
 
 <!--
 **neeraja1504/neeraja1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
