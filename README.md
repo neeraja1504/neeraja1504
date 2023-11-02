@@ -1,9 +1,10 @@
 ### Hi there 👋 I am Neeraja Kirtane!
 
-- I am currently working as a Research Assistant at Indian Institute of Technology, Madras, India (IITM). 
+- I am currently doing my MS in CS at UIUC. Previously I worked as a Research Assistant at Indian Institute of Technology, Madras, India (IITM). 
 - My interests lie in NLP, and believe in creating NLP applications for social good and systems which are ethical and fair to all.
+- My current project involves investigating hallucinations in LLMs.
 - I am always open to new collaborations! 
-- 📫 You can reach me on: kirtane[dot]neeraja[at]gmail[dot]com
+- 📫 You can reach out to me on: kirtane[dot]neeraja[at]gmail[dot]com
 -  😄 Pronouns: she/her
 
 <!--
