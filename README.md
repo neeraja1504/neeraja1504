@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Neeraja Kirtane!
 
-- I am currently doing my MS in CS at UIUC. Previously I worked as a Research Assistant at Indian Institute of Technology, Madras, India (IITM). 
-- My interests lie in NLP, and believe in creating NLP applications for social good and systems which are ethical and fair to all.
-- My current project involves investigating hallucinations in LLMs.
-- I am always open to new collaborations! 
+- I am a second-year MSCS student at UIUC, fortunate to be advised by Prof. Hao Peng and Prof. Dilek Hakkani-Tur. My work till now has been focussed on how can we effectively detect and mitigate misbehaviour in models.
+- Currently, I am working on how to balance the tradeoff between safety and utility in models.
+- I am actively looking for full-time ML positions in the industry/academic labs. If you feel I am a right fit please contact me!
 - 📫 You can reach out to me on: kirtane[dot]neeraja[at]gmail[dot]com
--  😄 Pronouns: she/her
+
+
 
 <!--
 **neeraja1504/neeraja1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
