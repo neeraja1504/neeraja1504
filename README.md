@@ -1,10 +1,12 @@
-### Hi there 👋 I am Neeraja Kirtane!
+Hi there 👋 I am Neeraja Kirtane!
 
-- I am a second-year MSCS student at UIUC, fortunate to be advised by Prof. Hao Peng and Prof. Dilek Hakkani-Tur. My work till now has been focussed on how can we effectively detect and mitigate misbehaviour in models.
-- Currently, I am working on how to balance the tradeoff between safety and utility in models.
-- I am actively looking for full-time ML positions in the industry/academic labs. If you feel I am a right fit please contact me!
-- 📫 You can reach out to me on: kirtane[dot]neeraja[at]gmail[dot]com
+I am an AI/ML Research Engineer at MathGPT.ai and a research collaborator with Prof. Kuan-Hao Huang (Texas A&M University). I recently completed my MS in Computer Science at UIUC, where I worked with Prof. Hao Peng and Prof. Dilek Hakkani-Tür.
 
+My research interests lie in mechanistic interpretability, multilingual reasoning, and robustness in LLMs, with a focus on understanding internal model representations and improving model reliability.
+
+I am actively looking for full-time ML/AI research roles in industry or PhD positions in academic labs. If my background aligns with what you're looking for, I’d love to connect!
+
+📫 Reach me at: kirtane.neeraja@gmail.com
 
 
 <!--
