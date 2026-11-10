@@ -1,10 +1,10 @@
 Hi there 👋 I am Neeraja Kirtane!
 
-I am an AI/ML Research Engineer at MathGPT.ai and a research collaborator with Prof. Kuan-Hao Huang (Texas A&M University). I recently completed my MS in Computer Science at UIUC, where I worked with Prof. Hao Peng and Prof. Dilek Hakkani-Tür.
+I am a PhD student in Computer Science and Engineering at Texas A&M University, advised by Prof. Kuan-Hao Huang in the FLAIR Lab. Before this, I completed my MS in Computer Science at UIUC, where I worked with Prof. Hao Peng and Prof. Dilek Hakkani-Tür, and worked as an AI/ML Research Engineer at MathGPT.ai.
 
-My research interests lie in mechanistic interpretability, multilingual reasoning, and robustness in LLMs, with a focus on understanding internal model representations and improving model reliability.
+My research focuses on mechanistic interpretability of LLMs: understanding internal model representations and using them to make models more reliable and safe. I have worked on language steering for multilingual reasoning, preemptive hallucination detection, and LLM jailbreaking, and I am currently working on reducing sycophancy in LLMs.
 
-I am actively looking for full-time ML/AI research roles in industry or PhD positions in academic labs. If my background aligns with what you're looking for, I’d love to connect!
+I am looking for research internships for Summer 2027 in interpretability, AI safety, and LLM reliability. If my background aligns with what you're looking for, I'd love to connect!
 
 📫 Reach me at: kirtane.neeraja@gmail.com
 
